@@ -159,4 +159,11 @@ export default [
         creator: "jwklong",
         isGitHub: true,
     },
+    {
+        name: "How Many Lines?", // The name of the extension.
+        description: "Adds a 'How Many Lines in ()' block to the editor. Useful for finding the amount of lines in a user-edited variable.",
+        code: "Monochromasity/howmanylines.js",
+        creator: "Monochromasity",
+        isGitHub: true,
+    },
 ];
